@@ -7,6 +7,6 @@ hello git
 hello git
 hello git hot-fix
 hello git
-hello git master
+hello git master1
 hello git22
 hello git2233
